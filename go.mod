@@ -1,4 +1,4 @@
-module gitee.com/tiger000/gcache_adapter
+module github.com/Tiger0oo0/gcache_adapter
 
 go 1.16
 
